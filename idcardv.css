@@ -1,0 +1,22 @@
+.divbox {
+    height: 438px;
+    width: 252px;
+    background-color: wheat;
+    text-align: center;
+    border: solid, 40px;
+}
+img {
+    height: 100px;
+    width:100p;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+p {
+    text-align: center;
+}
